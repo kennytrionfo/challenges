@@ -20,7 +20,6 @@ end
 
 
 
-
   # Dave's example:
   # attr_reader :greeting
   #
